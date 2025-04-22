@@ -1,0 +1,16 @@
+{
+  "1": [
+    {
+      "name": "PyCharm",
+      "path": "apps\\PyCharm.exe",
+      "launches": 0
+    }
+  ],
+  "user": [
+    {
+      "name": "\u0442\u0430\u0441\u043a \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440",
+      "path": "apps\\\u0442\u0430\u0441\u043a \u043c\u0435\u043d\u0435\u0434\u0436\u0435\u0440.exe",
+      "launches": 0
+    }
+  ]
+}
